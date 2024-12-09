@@ -1,1 +1,1 @@
-Hello this is a wip executor so it dont work yet i will upload the v1.2 soon and update the gui!!!
+WE FINALLY MADE IT V1.3 IS OUT NOW (still don't work lol idk what api to use)
